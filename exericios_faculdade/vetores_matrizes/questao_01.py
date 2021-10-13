@@ -3,7 +3,7 @@
 
 vetor = []
 for i in range(0, 10):
-    valor = int(input(f'Digite o {i+1}º número: '))
+    valor = int(input(f'Digite o {i + 1}º número: '))
     vetor.append(valor)
 
 maior = 0
