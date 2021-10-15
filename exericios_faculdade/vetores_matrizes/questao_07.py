@@ -1,4 +1,4 @@
-class MediaALuno:
+class MediaAluno:
     notas = []
 
     def add_notas(self, nota):
@@ -16,7 +16,7 @@ class MediaALuno:
 
 
 if __name__ == "__main__":
-    aluno1 = MediaALuno()
+    aluno1 = MediaAluno()
     x = 8
     while x > 0:
         try:
