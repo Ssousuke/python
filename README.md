@@ -4,9 +4,9 @@ Olá, aqui está meu reposiório de códigos em python e minha trilha de aprendi
 
 ## O que já tem nesse repositório?
 ##### Intrudução: 
-- listas, laços de repetições, operações condicionais.
-- manipulação de listas com enumerate, join e split.
+- Listas, laços de repetições, operações condicionais.
+- Manipulação de listas com enumerate, join e split.
 - Classes e Funções.
 
 ##### Programação Procedural:
-- Funções
+- Funções e Funções Anônimas 
