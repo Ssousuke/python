@@ -10,3 +10,4 @@ Olá, aqui está meu reposiório de códigos em python e minha trilha de aprendi
 
 ##### Programação Procedural:
 - Funções e Funções Anônimas 
+- Sets, Dicionários, Tuplas
