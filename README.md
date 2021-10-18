@@ -14,4 +14,4 @@ Olá, aqui está meu reposiório de códigos em python e minha trilha de aprendi
 - Tratamento de exceções(try, except e finally)
 
 
-#### Obs: Os arquivos podem ter error de digitação :/
+#### Obs: Os arquivos podem ter erro de digitação :/
