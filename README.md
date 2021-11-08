@@ -13,5 +13,8 @@ Olá, aqui está meu reposiório de códigos em python e minha trilha de aprendi
 - Sets, Dicionários, Tuplas
 - Tratamento de exceções(try, except e finally)
 
+#### Orientação a Objetos:
+- Classes
+- Métodos
 
 #### Obs: Os arquivos podem ter erro de digitação :/
