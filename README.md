@@ -16,5 +16,7 @@ Olá, aqui está meu reposiório de códigos em python e minha trilha de aprendi
 #### Orientação a Objetos:
 - Classes
 - Métodos
+- Getter e Setter
+- Tipagem Estática
 
 #### Obs: Os arquivos podem ter erro de digitação :/
